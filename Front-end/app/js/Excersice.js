@@ -100,8 +100,8 @@ var getOddAndEventNumber=function(number){
     }
 
     var count=1;
-    var res='Odd Number: ';
-    var res1='Even Number: '
+    var res='Even Number: ';
+    var res1='Odd Number: '
     while(count<=number*2)
     {
         if(count%2==0){
